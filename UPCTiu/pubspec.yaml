@@ -13,6 +13,8 @@ dependencies:
     sdk: flutter
   google_fonts: ^8.0.2
   image_picker: ^1.1.2
+  shared_preferences: ^2.2.2  # <-- NUEVO
+  path_provider: ^2.1.2       # <-- NUEVO
 
 dev_dependencies:
   flutter_test:
